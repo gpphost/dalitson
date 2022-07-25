@@ -1,0 +1,75 @@
+body{
+    background: #c2c0c0;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: candara , comic sans Ms;
+    color:#000000;
+
+}
+
+section#barra{
+    background: #374659;
+    height: 10px;
+    width: 100%;
+}
+p.titulo{
+  
+    text-align: center;
+    font-size: 25pt;
+    margin-top: -10px;
+
+}
+#logo{
+    width: 140px;
+    height: 130px;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+
+}
+
+div#interface{
+
+    background-color: #ffffff;
+    width: 340px;
+    height: 500px;
+    margin: 0 auto;
+    margin-top: 10rem;
+    justify-content: center;
+    align-items: center;
+    
+  
+    
+}
+input.tblemail{
+    display: block;
+    margin: 0  auto;
+
+    width: 280px;
+    height: 35px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 12pt;
+       
+}
+input.rdo{
+    margin: 0 0 15px 15px;
+}
+.btnentrar{
+    display: block;
+    width: 285px;
+    height: 45px;
+    background: #1f3b51;
+    color:#ffffff;
+    margin: 0  auto;
+    align-items: center;
+  
+}
+p#msgerro{
+    color: #ff0000;
+    /*margin: 0 0 0 40%;*/
+    text-align: center;
+}
